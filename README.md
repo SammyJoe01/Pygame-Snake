@@ -15,7 +15,7 @@ Clone this repository to your local machine using the following command:
 
 ## **Running the Game**
 Navigate to the project directory and run the following command in your terminal:
-python3 catch_the_clown.py
+python3 Snake.py
 
 ## **How to Play**
 Use the arrow keys to control the movement of the snake: up, down, left, and right.
